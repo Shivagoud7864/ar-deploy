@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: shivachams7784/mb-image:latest
+        image: shivachams7784/ip-image:latest
 ---
 apiVersion: v1
 kind: Service
